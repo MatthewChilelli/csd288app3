@@ -1,0 +1,5 @@
+syntax = "proto3";
+option java_package = "com.example.myapp";
+message UserData {
+  string username = 1;
+}
